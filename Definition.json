@@ -21,8 +21,9 @@
   ],
   "mixintos": {
     "game-graph": [
-      "file(Sylva-Cowee.json)",
-      "file(Cowee-Wilmot.json)"
+      "file(sylva-whittier.json)",
+      "file(whittier-ela.json)",
+      "file(ela-bryson.json)"
     ]
   }
 }
