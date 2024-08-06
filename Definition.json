@@ -1,0 +1,28 @@
+{
+  "manifestVersion": 5,
+  "id": "DualTrax.2point0",
+  "name": "Dual Trax 2.0",
+  "description": "A mod that provides Dual Tracks from Sylva to Andrews.",
+  "updateUrl": "https://raw.githubusercontent.com/DWFiv3/RRDualTrax/main/update/update.json",
+  "version": "2.0.0",
+  "requires": [
+    {
+      "id": "Zamu.StrangeCustoms",
+      "notBefore": "1.7.24194.2259"
+    },
+    {
+      "id": "AlinaNova21.AlinasMapMod",
+      "notBefore": "1.4.24193.2211"
+    },
+    {
+      "id": "railloader",
+      "notBefore": "1.8.2.1"
+    }
+  ],
+  "mixintos": {
+    "game-graph": [
+      "file(Sylva-Cowee.json)",
+      "file(Cowee-Wilmot.json)"
+    ]
+  }
+}
