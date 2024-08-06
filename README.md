@@ -4,7 +4,8 @@ Idea is to make tracks into unlockable Progressions based on the unlock / build 
 
 IE: Whittier to Ela, Ela to Bryson, Bryson to Alarka Jct etc.....
 
-Changelog
+## Changelog
+
 V2.0.0
 - Created initial fileset
 - Started creating track from Sylva to Whittier
