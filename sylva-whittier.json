@@ -794,7 +794,6 @@
         },
         "flipSwitchStand": false
       },
-      "NDTX_Sylva2Whittier_3rtw": null,
       "Nn83": {
         "position": {
           "x": 18235.2832,
@@ -834,7 +833,6 @@
         },
         "flipSwitchStand": false
       },
-      "NDTX_Sylva2Whittier_t01e": null,
       "NDTX_Sylva2Whittier_d1aj": {
         "position": {
           "x": 17791.56,
@@ -1106,6 +1104,403 @@
           "x": 0.0,
           "y": 285.016418,
           "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDTX_Sylva2Whittier_kx1h": {
+        "position": {
+          "x": 15226.0068,
+          "y": 565.63,
+          "z": 2827.7063
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 138.285385,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDTX_Sylva2Whittier_hoxy": {
+        "position": {
+          "x": 15148.6787,
+          "y": 565.11,
+          "z": 3006.75659
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 179.2044,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "N2cc": {
+        "position": {
+          "x": 15142.1006,
+          "y": 565.11,
+          "z": 3008.16113
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 179.2044,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "Nju2": {
+        "position": {
+          "x": 15140.1006,
+          "y": 565.11,
+          "z": 3157.261
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 179.2044,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDTX_Sylva2Whittier_2kt0": {
+        "position": {
+          "x": 15146.5918,
+          "y": 565.11,
+          "z": 3157.242
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 179.2044,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDTX_Sylva2Whittier_n4vc": {
+        "position": {
+          "x": 15078.0928,
+          "y": 565.11,
+          "z": 3347.39429
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 139.589966,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDTX_Sylva2Whittier_3t54": {
+        "position": {
+          "x": 14580.2412,
+          "y": 565.11,
+          "z": 3932.16968
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 139.589966,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDTX_Sylva2Whittier_58kt": {
+        "position": {
+          "x": 14372.3389,
+          "y": 564.5776,
+          "z": 4128.21533
+        },
+        "rotation": {
+          "x": 359.841278,
+          "y": 126.408661,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDTX_Sylva2Whittier_p2dm": {
+        "position": {
+          "x": 14091.9238,
+          "y": 563.7515,
+          "z": 4235.02
+        },
+        "rotation": {
+          "x": 359.841278,
+          "y": 94.62698,
+          "z": 6.67013156E-09
+        },
+        "flipSwitchStand": false
+      },
+      "N64h": {
+        "position": {
+          "x": 14091.0938,
+          "y": 563.7515,
+          "z": 4227.292
+        },
+        "rotation": {
+          "x": 359.841278,
+          "y": 94.62698,
+          "z": 6.67013156E-09
+        },
+        "flipSwitchStand": false
+      },
+      "N9m4": {
+        "position": {
+          "x": 13469.0029,
+          "y": 562.0226,
+          "z": 4277.702
+        },
+        "rotation": {
+          "x": 359.841278,
+          "y": 94.63289,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDTX_Sylva2Whittier_8m4a": {
+        "position": {
+          "x": 13469.4395,
+          "y": 562.0226,
+          "z": 4285.39648
+        },
+        "rotation": {
+          "x": 359.841278,
+          "y": 94.63289,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDTX_Sylva2Whittier_624q": {
+        "position": {
+          "x": 13293.2832,
+          "y": 561.46,
+          "z": 4334.678
+        },
+        "rotation": {
+          "x": 359.841431,
+          "y": 115.81,
+          "z": 6.670132E-09
+        },
+        "flipSwitchStand": false
+      },
+      "NDTX_Sylva2Whittier_og5q": {
+        "position": {
+          "x": 13208.8887,
+          "y": 561.25,
+          "z": 4375.382
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 115.81,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "N4na": {
+        "position": {
+          "x": 13186.541,
+          "y": 561.25,
+          "z": 4386.10449
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 295.81,
+          "z": 0.0
+        },
+        "flipSwitchStand": true
+      },
+      "Na3g": {
+        "position": {
+          "x": 13160.8,
+          "y": 561.25,
+          "z": 4398.5
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 295.81,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "Ner5y": null,
+      "Nshg": {
+        "position": {
+          "x": 12166.2666,
+          "y": 561.754333,
+          "z": 5629.086
+        },
+        "rotation": {
+          "x": 0.39188236,
+          "y": 21.4476185,
+          "z": 359.5147
+        },
+        "flipSwitchStand": true
+      },
+      "Ncsws": null,
+      "Nvzx": null,
+      "Nk1hr": {
+        "position": {
+          "x": 12292.3184,
+          "y": 561.25,
+          "z": 5065.68262
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 140.199875,
+          "z": 0.0
+        },
+        "flipSwitchStand": true
+      },
+      "NDTX_Sylva2Whittier_m7aw": {
+        "position": {
+          "x": 12297.1406,
+          "y": 561.25,
+          "z": 5069.2124
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 140.199875,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "Nk5h": {
+        "position": {
+          "x": 12155.1553,
+          "y": 560.96,
+          "z": 5347.65674
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 162.415634,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDTX_Sylva2Whittier_dcmz": {
+        "position": {
+          "x": 12278.2588,
+          "y": 561.141541,
+          "z": 5091.87646
+        },
+        "rotation": {
+          "x": 359.78775,
+          "y": 141.251343,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "N8cc": {
+        "position": {
+          "x": 12164.375,
+          "y": 560.96,
+          "z": 5336.358
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 162.588135,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "Nbyt": null,
+      "Nq61i": null,
+      "Nnzd": {
+        "position": {
+          "x": 12185.0527,
+          "y": 561.4801,
+          "z": 5664.19336
+        },
+        "rotation": {
+          "x": 359.840057,
+          "y": 202.367981,
+          "z": -1.667533E-08
+        },
+        "flipSwitchStand": false
+      },
+      "Nts4": {
+        "position": {
+          "x": 12654.8477,
+          "y": 561.25,
+          "z": 4752.88
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 306.0,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "Nzs8": {
+        "position": {
+          "x": 12640.7471,
+          "y": 561.25,
+          "z": 4763.18
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 306.0,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "NDTX_Sylva2Whittier_qe66": {
+        "position": {
+          "x": 13251.0859,
+          "y": 561.321,
+          "z": 4355.03027
+        },
+        "rotation": {
+          "x": 0.154889,
+          "y": 295.714539,
+          "z": -0.0001320886
+        },
+        "flipSwitchStand": false
+      },
+      "NDTX_Sylva2Whittier_t97k": {
+        "position": {
+          "x": 13248.8047,
+          "y": 561.3208,
+          "z": 4350.535
+        },
+        "rotation": {
+          "x": 0.153956518,
+          "y": 295.7693,
+          "z": -5.63559333E-05
+        },
+        "flipSwitchStand": false
+      },
+      "NDTX_Sylva2Whittier_wdu8": {
+        "position": {
+          "x": 12346.5078,
+          "y": 561.25,
+          "z": 5000.913
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 140.019714,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "Nod36": null,
+      "Nnda": null,
+      "NDTX_Sylva2Whittier_2izp": {
+        "position": {
+          "x": 12201.5186,
+          "y": 561.4801,
+          "z": 5718.76367
+        },
+        "rotation": {
+          "x": 359.961731,
+          "y": 201.5649,
+          "z": 0.2422451
+        },
+        "flipSwitchStand": false
+      },
+      "NDTX_Sylva2Whittier_f5kq": {
+        "position": {
+          "x": 12180.7637,
+          "y": 561.4801,
+          "z": 5666.02344
+        },
+        "rotation": {
+          "x": 359.844849,
+          "y": 201.434784,
+          "z": 0.36385572
         },
         "flipSwitchStand": false
       }
@@ -1582,7 +1977,6 @@
         "speedLimit": 0,
         "groupId": ""
       },
-      "SDTX_Sylva2Whittier_u2ql": null,
       "SDTX_Sylva2Whittier_ymmy": {
         "style": "Standard",
         "trackClass": "Branch",
@@ -1602,8 +1996,6 @@
         "groupId": "s1"
       },
       "Sn4t": null,
-      "SDTX_Sylva2Whittier_liet": null,
-      "SDTX_Sylva2Whittier_yrqq": null,
       "SDTX_Sylva2Whittier_bx8f": {
         "style": "Standard",
         "trackClass": "Branch",
@@ -1804,11 +2196,320 @@
         "priority": -1,
         "speedLimit": 0,
         "groupId": "s1"
+      },
+      "SDTX_Sylva2Whittier_44ks": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "Nhes",
+        "endId": "NDTX_Sylva2Whittier_kx1h",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDTX_Sylva2Whittier_922s": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDTX_Sylva2Whittier_kx1h",
+        "endId": "NDTX_Sylva2Whittier_hoxy",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDTX_Sylva2Whittier_onyp": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDTX_Sylva2Whittier_hoxy",
+        "endId": "NDTX_Sylva2Whittier_2kt0",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDTX_Sylva2Whittier_xzr5": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDTX_Sylva2Whittier_2kt0",
+        "endId": "NDTX_Sylva2Whittier_n4vc",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDTX_Sylva2Whittier_s05m": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDTX_Sylva2Whittier_n4vc",
+        "endId": "NDTX_Sylva2Whittier_3t54",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDTX_Sylva2Whittier_o46w": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDTX_Sylva2Whittier_3t54",
+        "endId": "NDTX_Sylva2Whittier_58kt",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDTX_Sylva2Whittier_ncb7": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDTX_Sylva2Whittier_58kt",
+        "endId": "NDTX_Sylva2Whittier_p2dm",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDTX_Sylva2Whittier_ji5s": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDTX_Sylva2Whittier_p2dm",
+        "endId": "NDTX_Sylva2Whittier_8m4a",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDTX_Sylva2Whittier_68ac": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDTX_Sylva2Whittier_8m4a",
+        "endId": "NDTX_Sylva2Whittier_624q",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "Snqm": {
+        "style": "Standard",
+        "trackClass": "Mainline",
+        "startId": "NDTX_Sylva2Whittier_og5q",
+        "endId": "N4na",
+        "priority": 0,
+        "speedLimit": 15,
+        "groupId": ""
+      },
+      "SDTX_Sylva2Whittier_on5z": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "Nshg",
+        "endId": "Nxm9",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "Scbk": null,
+      "Szy2": null,
+      "lgrdg4": null,
+      "Sed8": null,
+      "Sgnj": null,
+      "SDTX_Sylva2Whittier_9um3": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "78veul",
+        "endId": "NDTX_Sylva2Whittier_m7aw",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "S6dt": null,
+      "Sbi5": null,
+      "SDTX_Sylva2Whittier_kq2b": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "Nk5h",
+        "endId": "N29oo",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDTX_Sylva2Whittier_rkol": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDTX_Sylva2Whittier_m7aw",
+        "endId": "NDTX_Sylva2Whittier_dcmz",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDTX_Sylva2Whittier_qhd2": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDTX_Sylva2Whittier_dcmz",
+        "endId": "N8cc",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "Sbo7r": null,
+      "Sfm1": null,
+      "Slup": null,
+      "SDTX_Sylva2Whittier_w785": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "Nnzd",
+        "endId": "N8cc",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDTX_Sylva2Whittier_e0p7": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDTX_Sylva2Whittier_624q",
+        "endId": "NDTX_Sylva2Whittier_qe66",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDTX_Sylva2Whittier_7us7": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDTX_Sylva2Whittier_qe66",
+        "endId": "NDTX_Sylva2Whittier_og5q",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "Sj4c": null,
+      "SDTX_Sylva2Whittier_vkez": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "N5es",
+        "endId": "NDTX_Sylva2Whittier_t97k",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDTX_Sylva2Whittier_fans": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDTX_Sylva2Whittier_t97k",
+        "endId": "Njk9",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDTX_Sylva2Whittier_prd7": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDTX_Sylva2Whittier_t97k",
+        "endId": "NDTX_Sylva2Whittier_og5q",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDTX_Sylva2Whittier_fapw": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDTX_Sylva2Whittier_qe66",
+        "endId": "Njk9",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "S50r7": null,
+      "SDTX_Sylva2Whittier_fqv0": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "Nk1hr",
+        "endId": "NDTX_Sylva2Whittier_wdu8",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDTX_Sylva2Whittier_4ro5": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDTX_Sylva2Whittier_wdu8",
+        "endId": "vs2s9k",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDTX_Sylva2Whittier_zfib": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDTX_Sylva2Whittier_wdu8",
+        "endId": "NDTX_Sylva2Whittier_m7aw",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "S9hi": null,
+      "S0ob7": null,
+      "opth0g": null,
+      "SDTX_Sylva2Whittier_oagl": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "Nnzd",
+        "endId": "1tyb88",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDTX_Sylva2Whittier_1oqx": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "p8ab2e",
+        "endId": "NDTX_Sylva2Whittier_2izp",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDTX_Sylva2Whittier_o8ef": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDTX_Sylva2Whittier_2izp",
+        "endId": "NDTX_Sylva2Whittier_f5kq",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDTX_Sylva2Whittier_zo4y": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDTX_Sylva2Whittier_f5kq",
+        "endId": "Nshg",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDTX_Sylva2Whittier_vr3j": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NDTX_Sylva2Whittier_f5kq",
+        "endId": "1tyb88",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
+      },
+      "SDTX_Sylva2Whittier_icsf": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "Nnzd",
+        "endId": "NDTX_Sylva2Whittier_2izp",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": ""
       }
     },
     "spans": {}
   },
   "splineys": {
+    "Telegraph_Poles": {
+      "handler": "AlinasMapMod.TelegraphPoleMover",
+      "polesToMove": [
+        601,
+        603,
+        605,
+        607
+      ],
+      "poleMovement": [
+        [0, 0, 6],
+        [0, 0, 4],
+        [0, 0, 4],
+        [0, 0, 2]
+      ]
+    },
     "Dillsboro Bridge 1": {
       "points": [
         {

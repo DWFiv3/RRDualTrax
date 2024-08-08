@@ -6,6 +6,9 @@ IE: Whittier to Ela, Ela to Bryson, Bryson to Alarka Jct etc.....
 
 ## Changelog
 
+V2.0.1
+- Tracks completed Syvla to Whittier, now the cleaning begins
+
 V2.0.0
 - Created initial fileset
 - Started creating track from Sylva to Whittier
